@@ -2,10 +2,10 @@
 
 ### Day 1: March 1st, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Programmed bubble, quick, and merge sorting algorithms in Ruby. Tested times for each.
 
-**Thoughts**
+**Thoughts** I need more practice in higher-level CS concepts.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+#placeholder till work is added to github
+
