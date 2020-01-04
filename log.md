@@ -8,3 +8,11 @@
 
 **Link(s) to work**
 https://github.com/Ryomablue/diet-tracker
+
+### Day 2: Jan 2nd 2020
+
+**Today's Progress**: Worked on some coding challenges
+
+### Day 3: Jan 3rd 2020
+
+**Today's Progress**: Worked on some coding challenges
