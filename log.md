@@ -16,3 +16,11 @@ https://github.com/Ryomablue/diet-tracker
 ### Day 3: Jan 3rd 2020
 
 **Today's Progress**: Worked on some coding challenges
+
+### Day 4: Jan 4th 2020
+
+**Today's Progress**: Warmed up with some coding challenges before starting trying out some Scala programing. Most in console but set up two very basic files. Goal is to use Scala in upcoming projects.
+
+**Link(s) to work**
+https://github.com/Ryomablue/Scala-Learning
+
