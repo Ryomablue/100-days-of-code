@@ -24,3 +24,16 @@ https://github.com/Ryomablue/diet-tracker
 **Link(s) to work**
 https://github.com/Ryomablue/Scala-Learning
 
+### Day 5: Jan 5th 2020
+
+**Today's Progress**: Worked on some coding challenges
+
+**Link(s) to work**
+https://github.com/Ryomablue/dailyCodingChallenges
+
+### Day 6: Jan 6th 2020
+
+**Today's Progress**:  Worked on some coding challenges
+
+**Link(s) to work**
+https://github.com/Ryomablue/dailyCodingChallenges
