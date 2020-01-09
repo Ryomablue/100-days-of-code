@@ -37,3 +37,17 @@ https://github.com/Ryomablue/dailyCodingChallenges
 
 **Link(s) to work**
 https://github.com/Ryomablue/dailyCodingChallenges
+
+### Day 7: Jan 7th 2020
+
+**Today's Progress**:  Worked on some coding challenges
+
+**Link(s) to work**
+https://github.com/Ryomablue/dailyCodingChallenges
+
+### Day 8: Jan 8th 2020
+
+**Today's Progress**:  Worked on some coding challenges and then tried my hand at drawing a baby penguin in only HTML/CSS
+
+**Link(s) to work**
+https://codepen.io/ryomablue-the-sans/pen/MWYVKQq
