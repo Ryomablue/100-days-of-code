@@ -51,3 +51,12 @@ https://github.com/Ryomablue/dailyCodingChallenges
 
 **Link(s) to work**
 https://codepen.io/ryomablue-the-sans/pen/MWYVKQq
+
+### Day 9: Jan 9th 2020
+
+**Today's Progress**: Today was more in console work with scala while reading through some documentation. Also, started tackling a coding challenge but no finished code to push today.
+
+
+### Day 10: Jan 10th 2020
+
+**Today's Progress**:
