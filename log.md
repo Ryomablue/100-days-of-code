@@ -63,3 +63,10 @@ https://codepen.io/ryomablue-the-sans/pen/MWYVKQq
 
 **Link(s) to work**
 https://codepen.io/ryomablue-the-sans/pen/oNgdwGE
+
+### Day 11: Jan 11th 2020
+
+**Today's Progress**: A quick challenge warm-up before a 45 min coding test from Codility. Could only add my warm-up code.
+
+**Link(s) to work**
+https://github.com/Ryomablue/dailyCodingChallenges
