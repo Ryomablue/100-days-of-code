@@ -59,4 +59,7 @@ https://codepen.io/ryomablue-the-sans/pen/MWYVKQq
 
 ### Day 10: Jan 10th 2020
 
-**Today's Progress**:
+**Today's Progress**: Another day of some refreshers on front-end work. Added animation to the penguin I made earlier and did some old freecodecamp front-end exercises.
+
+**Link(s) to work**
+https://codepen.io/ryomablue-the-sans/pen/oNgdwGE
