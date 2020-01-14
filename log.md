@@ -70,3 +70,7 @@ https://codepen.io/ryomablue-the-sans/pen/oNgdwGE
 
 **Link(s) to work**
 https://github.com/Ryomablue/dailyCodingChallenges
+
+### Day 12: Jan 13th 2020
+
+**Today's Progress**: Missed yesterday since it was busy. Came back today to do a bit more coding challenges and some FreeCodeCamp lessons. 
