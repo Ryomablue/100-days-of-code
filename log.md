@@ -73,4 +73,12 @@ https://github.com/Ryomablue/dailyCodingChallenges
 
 ### Day 12: Jan 13th 2020
 
-**Today's Progress**: Missed yesterday since it was busy. Came back today to do a bit more coding challenges and some FreeCodeCamp lessons. 
+**Today's Progress**: Missed yesterday since it was busy. Came back today to do a bit more coding challenges and some FreeCodeCamp lessons.
+
+### Day 13: Jan 14th 2020
+
+**Today's Progress**: Sick so just did some FreeCodeCamp lessons.
+
+### Day 14: Jan 15th 2020
+
+**Today's Progress**: Still sick. Set up Intellij IDE and going through some scala set up. 
