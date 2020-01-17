@@ -82,3 +82,9 @@ https://github.com/Ryomablue/dailyCodingChallenges
 ### Day 14: Jan 15th 2020
 
 **Today's Progress**: Still sick. Set up Intellij IDE and going through some scala set up. 
+
+### Day 14: Jan 15th 2020
+
+**Today's Progress**: Started creating a project in scala to try out TDD in scala
+**Link(s) to work**
+https://github.com/Ryomablue/Examples
