@@ -88,3 +88,23 @@ https://github.com/Ryomablue/dailyCodingChallenges
 **Today's Progress**: Started creating a project in scala to try out TDD in scala
 **Link(s) to work**
 https://github.com/Ryomablue/Examples
+
+### Day 16: Jan 17th 2020
+
+**Today's Progress**: Started new little project to make a retirement calculator using scala. Mostly initial project setup
+**Link(s) to work**
+https://github.com/Ryomablue/retirement_calculator
+
+### Day 17: Jan 18th 2020
+
+**Today's Progress**: Started creating a project in scala to try out TDD in scala. Created 3 of the primary methods and the tests for them.
+**Link(s) to work**
+
+https://github.com/Ryomablue/retirement_calculator
+
+### Day 18: Jan 19th 2020
+
+**Today's Progress**: Created the nbOfMonths method and tests.
+**Link(s) to work**
+
+https://github.com/Ryomablue/retirement_calculator
