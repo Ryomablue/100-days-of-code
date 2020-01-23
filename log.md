@@ -108,3 +108,17 @@ https://github.com/Ryomablue/retirement_calculator
 **Link(s) to work**
 
 https://github.com/Ryomablue/retirement_calculator
+
+### Day 19: Jan 20th 2020
+
+**Today's Progress**: Created SimulatePlan class and tests. Ran into test bugs and started to debug.
+**Link(s) to work**
+
+https://github.com/Ryomablue/retirement_calculator
+
+### Day 20: Jan 22nd 2020
+
+**Today's Progress**: Missed yesterday due to schedule. Resolved bug issues, added in new tsv files and ran the code with many different inputs. Set up to create jar tomorrow and try running a bit more.
+**Link(s) to work**
+
+https://github.com/Ryomablue/retirement_calculator
