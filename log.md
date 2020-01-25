@@ -122,3 +122,8 @@ https://github.com/Ryomablue/retirement_calculator
 **Link(s) to work**
 
 https://github.com/Ryomablue/retirement_calculator
+
+
+### Day 21: Jan 24th 2020
+
+**Today's Progress**: Missed yesterday due to work event. Worked on some freecodecamp lessons
