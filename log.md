@@ -127,3 +127,9 @@ https://github.com/Ryomablue/retirement_calculator
 ### Day 21: Jan 24th 2020
 
 **Today's Progress**: Missed yesterday due to work event. Worked on some freecodecamp lessons
+
+
+
+### Day 22: Jan 26th 2020
+
+**Today's Progress**: Missed yesterday to see an old friend. Resolved my sbt refresh issues but still can't make exectuable JAR file. Forgot how long it can take to get used to new tools and systems.
