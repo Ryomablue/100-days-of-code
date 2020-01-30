@@ -139,3 +139,9 @@ https://github.com/Ryomablue/retirement_calculator
 **Today's Progress**: Mostly some simple coding warm ups and then a coding challenge from a company (can't share here).
 **Link(s) to work**
 https://github.com/Ryomablue/dailyCodingChallenges
+
+### Day 23: Jan 27th 2020
+
+**Today's Progress**: Solving a cake interview question. Solution one is more the brute force solution I wrote before going back and refactoring to a bitwise operation for a cleaner solution.
+**Link(s) to work**
+https://github.com/Ryomablue/dailyCodingChallenges
