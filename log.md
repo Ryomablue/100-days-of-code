@@ -150,4 +150,4 @@ https://github.com/Ryomablue/dailyCodingChallenges
 
 **Today's Progress**: Solving a cake interview question. Have to travel today so wanted to tackle at least one. This one took me longer than I expected. Might be cause I am in a rush. Still, all tests passed.
 **Link(s) to work**
-https://github.com/Ryomablue/dailyCodingChallenges/CakeThief.java
+https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/CakeThief.java
