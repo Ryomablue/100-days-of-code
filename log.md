@@ -140,14 +140,20 @@ https://github.com/Ryomablue/retirement_calculator
 **Link(s) to work**
 https://github.com/Ryomablue/dailyCodingChallenges
 
-### Day 23: Jan 27th 2020
+### Day 24: Jan 29th 2020
 
 **Today's Progress**: Solving a cake interview question. Solution one is more the brute force solution I wrote before going back and refactoring to a bitwise operation for a cleaner solution.
 **Link(s) to work**
 https://github.com/Ryomablue/dailyCodingChallenges
 
-### Day 23: Jan 27th 2020
+### Day 25: Jan 31st 2020
 
 **Today's Progress**: Solving a cake interview question. Have to travel today so wanted to tackle at least one. This one took me longer than I expected. Might be cause I am in a rush. Still, all tests passed.
 **Link(s) to work**
 https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/CakeThief.java
+
+### Day 26: Feb 1st 2020
+
+**Today's Progress**: Solving a cake interview question
+**Link(s) to work**
+https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/stockProblem.java
