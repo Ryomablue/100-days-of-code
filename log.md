@@ -157,3 +157,9 @@ https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/CakeThief.java
 **Today's Progress**: Solving a cake interview question
 **Link(s) to work**
 https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/stockProblem.java
+
+### Day 27: Feb 2nd 2020
+
+**Today's Progress**: Small problems as I was traveling home most of the day.
+**Link(s) to work**
+https://github.com/Ryomablue/dailyChallengeSolutions
