@@ -163,3 +163,9 @@ https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/stockProblem.ja
 **Today's Progress**: Small problems as I was traveling home most of the day.
 **Link(s) to work**
 https://github.com/Ryomablue/dailyChallengeSolutions
+
+### Day 28: Feb 3rd 2020
+
+**Today's Progress**: SMeetings all day and brain was fried so just did some coding challenges. Most were small so I didn't commit them.
+**Link(s) to work**
+https://github.com/Ryomablue/dailyChallengeSolutions
