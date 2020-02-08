@@ -169,3 +169,15 @@ https://github.com/Ryomablue/dailyChallengeSolutions
 **Today's Progress**: SMeetings all day and brain was fried so just did some coding challenges. Most were small so I didn't commit them.
 **Link(s) to work**
 https://github.com/Ryomablue/dailyChallengeSolutions
+
+
+### Day 29: Feb 5th 2020
+
+**Today's Progress**: Today was just doing some console coding with Scala so not much to push
+
+
+### Day 30: Feb 7th 2020
+
+**Today's Progress**: Hours of meetings so I just tackled a delete node challenge.
+**Link(s) to work**
+https://github.com/Ryomablue/dailyChallengeSolutions
