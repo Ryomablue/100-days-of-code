@@ -181,3 +181,15 @@ https://github.com/Ryomablue/dailyChallengeSolutions
 **Today's Progress**: Hours of meetings so I just tackled a delete node challenge.
 **Link(s) to work**
 https://github.com/Ryomablue/dailyChallengeSolutions
+
+### Day 31: Feb 9th 2020
+
+**Today's Progress**: Scala learning and adding error handling to retirement calc
+**Link(s) to work**
+https://github.com/Ryomablue/Scala-Learning
+https://github.com/Ryomablue/retirement_calculator
+
+
+### Day 21: Feb 10th 2020
+
+**Today's Progress**: Some small java warmups and then some attempts to fix issue in scala IDE
