@@ -190,6 +190,14 @@ https://github.com/Ryomablue/Scala-Learning
 https://github.com/Ryomablue/retirement_calculator
 
 
-### Day 21: Feb 10th 2020
+### Day 32: Feb 10th 2020
 
 **Today's Progress**: Some small java warmups and then some attempts to fix issue in scala IDE
+
+
+
+### Day 33: Feb 11th 2020
+
+**Today's Progress**: Worked on challenge regarding in-place shuffles, which was something I hadn't done before. Nice refresher on some basics while learning some new things.
+**Link(s) to work**
+https://github.com/Ryomablue/dailyChallengeSolutions/blob/master/in-place_shuffle.java
